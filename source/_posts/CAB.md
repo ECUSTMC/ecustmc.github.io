@@ -6,7 +6,7 @@ tags:
 - 整合包
 - 模组服
 categories: 活动
-cover: https://media.forgecdn.net/avatars/thumbnails/450/731/256/256/637712078711696255.png
+# cover: https://media.forgecdn.net/avatars/thumbnails/450/731/256/256/637712078711696255.png
 ---
 ## 服务器信息
 > ⚠️ 注意：进入需使用[皮肤站](https://mcskin.ecustvr.top/)认证，具体流程见[萌新指南](/tutorial/)
